@@ -29,7 +29,7 @@ And list all network interfaces
 netlink:i().
 ```
 
-Which should return something comparable to
+Which should print something comparable to
 
 ```sh
 link {
